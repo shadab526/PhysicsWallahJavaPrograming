@@ -1,14 +1,15 @@
 package Loops.ForLoops;
-import java.util.*;
-public class Ex_001_SumOfNatualNumber {
+
+import java.util.Scanner;
+
+public class ex005_NumberMultiply2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number");
         int n = sc.nextInt();
-        int sum = 0;
-        for( int num=1; num<=n; num++ ){
-            sum = sum + num;
+        for (int i =1; i<=n; i*=2){
+            System.out.println(i);
         }
-        System.out.println(sum);
+
     }
 }

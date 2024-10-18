@@ -1,15 +1,14 @@
 package Loops.WhileLoops;
 import java.util.*;
-public class Ex_001_PrintNatural {
+public class ex005_NumberMultiply2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number");
+        System.out.println("Enter a number:");
         int n = sc.nextInt();
-        int num = 1;
+        int num =1;
         while (num<=n){
             System.out.println(num);
-           // num = num+1;
-            num++;
+            num*=2;
         }
     }
 }
