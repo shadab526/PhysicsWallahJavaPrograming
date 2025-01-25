@@ -1,6 +1,6 @@
 package Arrays_Revision;
 
-public class Lab014_MaxArray {
+public class Lab013_MaxArray {
     public static void main(String[] args) {
         int[] arr = {5,8,23,7,4,};
         int max = 0;

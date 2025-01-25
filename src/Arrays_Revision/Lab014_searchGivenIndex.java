@@ -1,6 +1,6 @@
 package Arrays_Revision;
 
-public class Lab015_searchGivenIndex {
+public class Lab014_searchGivenIndex {
     public static void main(String[] args) {
         int[] arr = {3,5,17,8,12,34,7};
         int x =7;

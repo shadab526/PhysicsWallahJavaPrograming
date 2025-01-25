@@ -1,6 +1,6 @@
 package Array;
 
-public class Lab010_maxValueOfArray {
+public class Lab009_maxValueOfArray {
     public static void main(String[] args) {
         int[] arr = {5,7,2,4,1,12};
         int ans =0;

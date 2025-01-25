@@ -1,6 +1,6 @@
 package Array;
 
-public class Lab011_searchIndexOfArray {
+public class Lab010_searchIndexOfArray {
     public static void main(String[] args) {
         int[] arr = {3,5,7,8,12,34,7};
         int x = 7;

@@ -1,31 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bff24bb-81df-4467-9d53-a3c05775fb56" name="Changes" comment="" />
+    <list default="true" id="8bff24bb-81df-4467-9d53-a3c05775fb56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OopsInJava/StudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/String_Builder/builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/String_Builder/sb_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/start_with.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/sub_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Lab010_maxValueOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Lab009_maxValueOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Lab011_searchIndexOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Lab010_searchIndexOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_Revision/Lab012_Assignment_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Revision/Lab011_Assignment_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_Revision/Lab013_2dTraversing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Revision/Lab012_2dTraversing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_Revision/Lab014_MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Revision/Lab013_MaxArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays_Revision/Lab015_searchGivenIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_Revision/Lab014_searchGivenIndex.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shadab526&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shadab526/PhysicsWallahJavaPrograming&quot;,
+    &quot;accountId&quot;: &quot;22d48cad-457e-4b64-b407-1e7f4492021d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2mqrqSgWQjdjG9mGS2FzzbJAVM7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.builder.executor": "Run",
+    "Application.sb_reverse.executor": "Run",
+    "Application.start_with.executor": "Run",
+    "Application.sub_string.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/PhysicsWallahJavaPrograming/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.sb_reverse">
+    <configuration name="builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.String_Builder.builder" />
+      <module name="PhysicsWallahJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.String_Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sb_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.String_Builder.sb_reverse" />
+      <module name="PhysicsWallahJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.String_Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start_with" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.start_with" />
+      <module name="PhysicsWallahJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sub_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.sub_string" />
+      <module name="PhysicsWallahJavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sb_reverse" />
+        <item itemvalue="Application.builder" />
+        <item itemvalue="Application.sub_string" />
+        <item itemvalue="Application.start_with" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

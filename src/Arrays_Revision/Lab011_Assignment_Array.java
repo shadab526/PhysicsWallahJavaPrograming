@@ -1,6 +1,6 @@
 package Arrays_Revision;
 
-public class Lab012_Assignment_Array {
+public class Lab011_Assignment_Array {
     public static void main(String[] args) {
         int[] arr = new int[3];
         arr[0]= 2;
